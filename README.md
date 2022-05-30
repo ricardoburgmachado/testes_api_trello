@@ -1,6 +1,6 @@
 # Testes de API TRELLO
 
-Este projeto visa realizar a validação dos endpoints Trello com a responsabilidada de inclusão de um novo Card, edição de um Card e remoção de um Card.
+Este projeto visa realizar a validação dos endpoints Trello com a responsabilidade de inclusão de um novo Card, edição de um Card e remoção de um Card.
 
 Para isso foi criado um Board para prover um ID para ser utilizado nos eventos citados acima.
 
